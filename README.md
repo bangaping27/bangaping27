@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rafli anggoro</h1>
 <h3 align="center">A passionate backend developer from Indonesia</h3>
+[![Spotify](https://novatorem.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/31rmqvi3nz7b6c67olmevrk7oegu)
+[![Spotify](https://sspoo.vercel.app/api/spotify)](https://open.spotify.com/user/31rmqvi3nz7b6c67olmevrk7oegu)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bangaping27&label=Profile%20views&color=0e75b6&style=flat" alt="bangaping27" /> </p>
 
