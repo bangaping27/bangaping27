@@ -1,5 +1,8 @@
 <h1 align="center">Orang Ganteng dan Intelek</h1>
 
+[![committers.top badge](https://user-badge.committers.top/indonesia_private/USERNAME.svg)](https://user-badge.committers.top/indonesia_private/USERNAME)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bangaping27&show_icons=true&locale=en&layout=compact" alt="bangaping27" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bangaping27&show_icons=true&locale=en" alt="bangaping27" /></p>
