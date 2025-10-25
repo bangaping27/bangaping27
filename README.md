@@ -20,10 +20,6 @@
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=bangaping27&theme=onedark&margin-w=15&margin-h=15&column=7" alt="trophies" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bangaping27&theme=monokai" alt="summary" />
 </div>
 
