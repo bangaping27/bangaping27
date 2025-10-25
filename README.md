@@ -1,7 +1,10 @@
 <h1 align="center">Hi 👋, I'm Rafli Anggoro!</h1>
 <h3 align="center">A Software Engineer from Indonesia 🇮🇩</h3>
 
-<!-- Centered About Me -->
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Software+Engineer+%7C+Backend+Developer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+</div>
+
 <div align="center">
   <p>👀 I’m interested in Software Engineering, Capture the Flag, and Robotics</p>
   <p>🌱 I’m currently learning and practicing Backend Development and System Design</p>
@@ -10,33 +13,23 @@
   <p>📫 You can reach me through my <a href="https://www.linkedin.com/in/raflianggoro/" target="_blank">LinkedIn</a>.</p>
 </div>
 
----
-
 <div align="center">
   <a href="https://user-badge.committers.top/indonesia_private/bangaping27">
     <img src="https://user-badge.committers.top/indonesia_private/bangaping27.svg" alt="committers.top badge" />
   </a>
 </div>
 
----
-
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=bangaping27&theme=onedark&margin-w=15&margin-h=15&column=7" alt="trophies" />
 </div>
-
----
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bangaping27&theme=monokai" alt="summary" />
 </div>
 
----
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bangaping27&include_all_commits=true&count_private=true&show_icons=true&line_height=24&title_color=2B5BBD&icon_color=1124BB&text_color=A1A1A1&bg_color=0,000000,130F40" alt="GitHub Stats"/>
 </div>
-
----
 
 <div align="center">
 <h2>Languages and Tools:</h2>
@@ -63,21 +56,15 @@
 </a>
 </div>
 
----
-
 <div align="center">
   <h2>My Most Used Languages</h2>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bangaping27&show_icons=true&locale=en&layout=compact&theme=monokai" alt="Top Languages" />
 </div>
 
----
-
 <div align="center">
   <h2>My LeetCode Stats</h2>
   <img src="https://leetcard.jacoblin.cool/apingril?theme=unicorn&ext=activity" alt="LeetCode Stats"/>
 </div>
-
----
 
 <h2 align="center">🚀 Projects Highlight</h2>
 
@@ -85,14 +72,26 @@
 
 | Project | Description | Links |
 |----------|-------------|--------|
-| 🕒 **Time Sign.In (Mobile)** | Mobile attendance and time-tracking app developed for **PT Tokoh Indonesia Muda Eksekutif** as a final project. Built upon the same base as Japregeo. | [🔗 Demo / Repo](#) |
-| 🗺️ **Japregeo (SaaS)** | A commercial SaaS product under **PT Inovasi Solusi Muda**, expanding from Time Sign.In into a full-featured location-based management platform. | [🌍 Website / Repo](#) |
-| 🚪 **Gate Pipihub** | Gateway and integration hub connecting multiple internal services and APIs efficiently. | [🔗 Repo](#) |
-| ⚙️ **AP2T - Ship Performance Tools** | Web-based analytical tool to monitor and optimize vessel performance and operational efficiency. | [🔗 Repo](#) |
+| 🕒 **Time Sign.In (Mobile)** | Mobile attendance & time-tracking app for **PT Tokoh Indonesia Muda Eksekutif**, built as a final project based on the Japregeo platform. | [🔗 Demo / Repo](#) |
+| 🗺️ **Japregeo (SaaS)** | A commercial SaaS app under **PT Inovasi Solusi Muda**, evolved from Time Sign.In into a full-featured location-based management system. | [🌍 Website / Repo](#) |
+| 🚪 **Gate Pipihub** | Gateway and integration hub connecting multiple internal APIs and microservices. | [🔗 Repo](#) |
+| ⚙️ **AP2T - Ship Performance Tools** | Analytical dashboard for monitoring and optimizing ship performance and operations. | [🔗 Repo](#) |
 
 </div>
 
----
+<h2 align="center">📌 Featured Repositories</h2>
+
+<div align="center">
+  <a href="https://github.com/bangaping27/japregeo">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bangaping27&repo=japregeo&theme=monokai" />
+  </a>
+  <a href="https://github.com/bangaping27/gate-pipihub">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bangaping27&repo=gate-pipihub&theme=monokai" />
+  </a>
+  <a href="https://github.com/bangaping27/ap2t">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bangaping27&repo=ap2t&theme=monokai" />
+  </a>
+</div>
 
 <div align="center">
   <h3>Connect with me:</h3>
