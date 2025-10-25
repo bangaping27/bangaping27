@@ -1,10 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rafli Anggoro!</h1>
 <h3 align="center">A Software Engineer from Indonesia 🇮🇩</h3>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=480&lines=Software+Engineer+%7C+Backend+Developer;Problem+Solver+%7C+Tech+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
-</div>
-
 <div align="center">
   <p>👀 I’m interested in Software Engineering, Capture the Flag, and Robotics</p>
   <p>🌱 I’m currently learning and practicing Backend Development and System Design</p>
